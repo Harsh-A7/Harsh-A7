@@ -11,7 +11,7 @@
 
 ## 📌 Projects
 - Healthcare Data Analysis (Python)
-- [Add second project]
+- 
 
 ## 🚀 Goal
 To work in analytics roles at companies like CTS,TCS,WIPRO,DELOITTE,EY.
