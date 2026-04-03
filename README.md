@@ -1,8 +1,8 @@
 # Harsh-A7
 # Hi, I'm Harsha 👋
 
-🎓 B.Tech Cybersecurity Student  
-📊 Interested in Data Analytics & Consulting  
+🎓 B.Tech  CSE(Cybersecurity Student)  
+📊 Interested in Data Analytics,IT & Consulting 
 
 ## 💻 Skills
 - Python, SQL
@@ -11,7 +11,11 @@
 
 ## 📌 Projects
 - Healthcare Data Analysis (Python)
-- 
+- student-management-system (Python)
 
 ## 🚀 Goal
-To work in analytics roles at companies like CTS,TCS,WIPRO,DELOITTE,EY.
+-Secure an entry-level role in Data Analytics / IT Support
+-Build a portfolio of practical projects
+-Transition into Cybersecurity after gaining industry experie
+-To work in analytics roles at companies like CTS,TCS,WIPRO,DELOITTE,EY.
+  
